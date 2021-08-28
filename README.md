@@ -4,7 +4,7 @@
 2. Direct to folder, open cmd
 3. Install requirement library (once)
    ``` bash
-   pip install -r requirements
+   pip install -r requirements.txt
    ```
 4. Run program by using
    ``` bash
