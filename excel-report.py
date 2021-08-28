@@ -122,7 +122,7 @@ if __name__ == "__main__":
     path_to_file = sys.argv[1].replace('\\','/')
     
     print('Reading excel...', end='')
-    df = read_excel('Export-sample.xlsx')
+    df = read_excel(path_to_file)
     print('Done')
 
     print('Calculating...', end='')
