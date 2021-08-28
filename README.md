@@ -1,7 +1,7 @@
 # Steps
 
-1. Install python
-2. Direct to folder
+1. Install python (once)
+2. Direct to folder, open cmd
 3. Install requirement library (once)
    ``` bash
    pip install -r requirements
